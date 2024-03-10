@@ -1,4 +1,9 @@
-### Hi there 👋
+👋 Hi, I’m @Claudia
+👀 I’m interested in Software Manual Testing
+📚 My main goal is to improve my testing knowledge and skills
+💞️ I’m looking to collaborate on manual testing projects
+📫 You can reach me here: www.linkedin.com/in/claudia-rusu
+
 
 <!--
 **claudiaelenarusu/claudiaelenarusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
